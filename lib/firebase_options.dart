@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB0bYvo2lqgqOUfHeaWHlJiuhW2LHykkcA',
+    apiKey: 'unicniema',
     appId: '1:511046313477:web:a8ced013d94d73f6cdde6c',
     messagingSenderId: '511046313477',
     projectId: 'kawiarnia-19e48',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBIGPepRD4lV_0eX4tutaI3Ww_WaI-NTw8',
+    apiKey: 'unicniema',
     appId: '1:511046313477:ios:9f218e7282cc926ecdde6c',
     messagingSenderId: '511046313477',
     projectId: 'kawiarnia-19e48',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBIGPepRD4lV_0eX4tutaI3Ww_WaI-NTw8',
+    apiKey: 'unicniema',
     appId: '1:511046313477:ios:9f218e7282cc926ecdde6c',
     messagingSenderId: '511046313477',
     projectId: 'kawiarnia-19e48',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyB0bYvo2lqgqOUfHeaWHlJiuhW2LHykkcA',
+    apiKey: 'unicniema',
     appId: '1:511046313477:web:6f69ee98e3c52800cdde6c',
     messagingSenderId: '511046313477',
     projectId: 'kawiarnia-19e48',
